@@ -1,0 +1,19 @@
+This project empowers retail store managers to unlock the power of their MySQL database with natural language!
+
+Tech Stack:
+
+- Google Palm: Large Language Model (LLM) understands user intent behind natural language questions.
+- Langchain(SQLDatabaseChain): Framework translates natural language questions into well-structured SQL queries.
+- Streamlit: UI
+
+Benefits for Retail:
+
+- Intuitive Inventory Management: Effortlessly access real-time stock information using natural language.
+- Data-Driven Decisions: Easily analyze sales trends and make informed choices about inventory and promotions.
+- Increased Efficiency: Save time and effort by bypassing the need to manually write complex SQL queries.
+
+Imagine a Manager Asking:
+
+"How many red shirts in size medium do we have left?"
+"What's the total revenue generated from last week's sale on blue jeans?"
+This system translates these questions into accurate SQL queries, retrieving the answers directly from the store's MySQL database.
